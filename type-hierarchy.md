@@ -32,6 +32,6 @@ function throwError(): never {
     throw new Error("Something went wrong");
 }
 
-Summarization
+Conclusion
 
 any, unknown, and never fulfill distinct functions. Any eliminates type safety, unknown never represents impossible values, and type checking maintains type safety. When a value's true type is uncertain or actual type of a value is not known, developers should use unknown over any.

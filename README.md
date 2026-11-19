@@ -1,6 +1,6 @@
 Assignment Overview
 
-THis repository contains my TypeScript assignment in solutions.ts file and two technical blog posts
+This repository contains my TypeScript assignment in solutions.ts file and two technical blog posts
 In this assignment, I have:
 
 Solved TypeScript problems in solutions.ts.
